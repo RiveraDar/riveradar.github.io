@@ -24,7 +24,7 @@ footer {
 }
 nav {
     float: left;
-    max-width: 160px;
+    max-width: 180px;
     margin: 0;
     padding: 1em;
 	
@@ -52,7 +52,7 @@ nav li a:hover {
 article {
     margin-left: 170px;
     border-left: 1px solid gray;
-    padding: 10emem;
+    padding: 5px;
     overflow: hidden;   
 	display: table; }
 
