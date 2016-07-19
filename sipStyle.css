@@ -52,7 +52,7 @@ nav li a:hover {
 article {
     margin-left: 170px;
     border-left: 1px solid gray;
-    padding: 5px;
+    padding: 5px; 
     overflow: hidden;   
 	display: table; }
 
